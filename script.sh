@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Jenkins successfully pulled this code from GitHub!"
+echo "Testing my automated webhook!"
 date
